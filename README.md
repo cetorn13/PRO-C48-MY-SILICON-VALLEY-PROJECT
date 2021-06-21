@@ -1,1 +1,2 @@
-# PRO-C48-MY-SILICON-VALLEY-PROJECT
+# Make-Your-Own-Game
+PRO-C48: Self-Designed Game (Project)
